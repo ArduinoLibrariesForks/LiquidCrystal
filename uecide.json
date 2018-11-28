@@ -1,0 +1,18 @@
+{
+    "name": "LiquidCrystal",
+    "provides": "LiquidCrystal.h",
+    "description": "Allows communication with alphanumerical liquid crystal displays (LCDs).",
+    "version": "1.0.7",
+    "maintainer": "Arduino <info@arduino.cc>",
+    "category": "Display",
+    "subcategory": "LCD",
+    "family": "all",
+    "core": "all",
+    "install": {
+        "examples": "/",
+        "keywords.txt": "/",
+        "library.properties": "/",
+        "src": "/"
+    },
+    "readme": "README.adoc"
+}
